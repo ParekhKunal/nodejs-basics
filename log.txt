@@ -1,0 +1,6 @@
+1708880511141: your request is coming from /api/users and method is GET
+1708880512177: your request is coming from /api/users and method is GET
+1708880567362: your request is coming from /users and method is GET
+1708880582098: your request is coming from /users and method is GET
+1708880654262: your request is coming from / and method is GET
+1708880725298: your request is coming from / and method is GET
